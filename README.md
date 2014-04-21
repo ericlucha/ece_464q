@@ -76,6 +76,8 @@ Right now, the application sends and receives information through a cloud databa
 Collaborators
 ===========
 
+Karan Dodia
+
 Eric Lucha
 
 Michael Mahoney
@@ -97,6 +99,8 @@ Dr. Dewayne Perry, Ph.D.
 Dr. Michael Becker, Ph.D.
 
 Dr. Gary Hallock, Ph.D.
+
+William Wang
 
 Tejaswini Ganapathi
 
