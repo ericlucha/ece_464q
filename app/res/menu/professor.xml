@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/action_study"
+          android:title="@string/study"
+          android:showAsAction="ifRoom" />
+ 	<item android:id="@+id/action_professor"
+          android:title="@string/professor"
+          android:showAsAction="ifRoom" />
+    <item android:id="@+id/action_bus"
+          android:title="@string/bus"
+          android:showAsAction="ifRoom" />
+    <item android:id="@+id/action_new_study"
+          android:title="@string/new_study"
+          android:showAsAction="ifRoom" />
+    <item android:id="@+id/action_new_professor"
+          android:title="@string/new_professor"
+          android:showAsAction="ifRoom" />
+    
+</menu>

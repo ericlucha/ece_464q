@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mECE</string>
+    <string name="action_settings">Settings</string>
+    <string name="home">Home Page</string>
+    <string name="study">Study Groups</string>
+    <string name="professor">Professor Check-Ins</string>
+    <string name="bus">Bus Route</string>
+    <string name="stop">Select Your Stop</string>
+    <string name="times">Stop Times</string> 
+    <string name="nothing">---</string>
+    <string name="title_activity_study">Active Study Groups</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_professor">Professor Check-Ins</string>
+    <string name="title_activity_bus">Bus Schedule</string>
+    <string name="newpost">New Study Group</string>
+    <string name="new_student_post">New Study Group</string>
+    <string name="course_code">Course Code</string>
+    <string name="location">Location</string>
+    <string name="notes">Notes (optional)</string>
+    <string name="enter_end_time">Enter End Time</string>
+    <string name="submit">Submit</string>
+    <string name="find_a_prof">Find a Professor</string>
+    <string name="find_a_group">Find a Group</string>
+    <string name="newprof">New Check-In</string>
+    <string name="new_prof_post">New Professor Check-In</string>
+    <string name="available">Available</string>
+    <string name="away_but_reachable">Away But Reachable</string>
+    <string name="unavailable">Unavailable</string>
+
+    <string-array name="field_codes_array">
+        <item>EE</item>
+        <item>CS</item>
+        <item>GE</item>
+        <item>M</item>
+        <item>PHY</item>
+        <item>E</item>
+        <item>GOV</item>
+        <item>HIS</item>
+        <item>RHE</item>
+        <item>UGS</item>
+        <item>AMS</item>
+        <item>ANT</item>
+        <item>ARC</item>
+        <item>ARH</item>
+        <item>CC</item>
+        <item>CTI</item>
+        <item>ECO</item>
+        <item>FA</item>
+        <item>GRG</item>
+        <item>LIN</item>
+        <item>MUS</item>
+        <item>PHL</item>
+        <item>PSY</item>
+        <item>RS</item>
+        <item>RTF</item>
+        <item>SOC</item>
+        <item>SS</item>
+        <item>TD</item>
+        <item>VAS</item>
+    </string-array>
+
+    <string name="title_activity_new_student">New Study Group</string>
+    <string name="field">Field</string>
+    <string name="title_activity_new_professor">New Check-In</string>
+    <string name="new_study">New Study Post</string>
+    <string name="new_professor">New Professor Check-In</string>
+    <string name="user_student">I am a student who would like to create a study group.</string>
+    <string name="user_professor">I am a professor who would like to check-in.</string>
+    <string name="user_reject">I am not a student, nor am I a professor.  Please remove me from this application.</string>
+    <string name="prompt_user">User Name</string>
+    <string name="enter_name">First and Last Name</string>
+    <string name="prcn">Pickle Research Center -- Northbound</string>
+    <string name="prcs">Pickle Research Center -- Southbound</string>
+    <string name="five_nb">5 -- Northbound</string>
+    <string name="five_sb">5 -- Southbound</string>
+    <string name="fa">Forty Acres (FA)</string>
+    <string name="wc">West Campus (WC)</string>
+    <string name="rri">Red River (RR) -- Inbound</string>
+    <string name="rro">Red River (RR) -- Outbound</string>
+    <string name="nr">North Riverside (NR)</string>
+    <string name="fw">Far West (FW)</string>
+    <string name="user_bus_view">I am a member of the ECE community who would like to find a bus time.</string>
+
+</resources>
